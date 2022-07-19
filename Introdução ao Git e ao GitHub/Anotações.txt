@@ -1,0 +1,25 @@
+GIT - Um sistema de versionamento de código distribuído. Ajuda a criar e monitorar diferentes versões do código. (Open Sourse)
+
+
+Download Git -> https://git-scm.com/
+
+
+SHA - Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).
+
+
+GitBash - terminal 
+
+
+Markdown faz a edição do texto utilizando caracteres especiais.
+
+
+Unmodified  → não modificado 
+
+Modified → arquivo modificado 
+
+Staged → local onde os arquivos que estão se preparando para “”entrar em sena” ficam .
+
+
+Conflito de merge acontece quando há uma alteração feita na mesma linha nos dois códigos. é necessário que verifique manualmente. 
+
+
